@@ -5,7 +5,6 @@ The purpose of this project is to help the pizza shop analyse their overall sale
 
 ## About Dataset
 
- - The data set has been taken from the kaggle website 
  https://www.kaggle.com/datasets/shilongzhuang/pizza-sales 
 
  This pizza sales dataset make up 12 relevant features:
@@ -68,10 +67,21 @@ After the analysis of the data , it was exported to MS Excel software where Data
 
 
 
-## Conclusion 
+## Insights
 
-- The results of the pizza sales analysis project have shown that the busiest days for pizza sales are Thursday, Friday and Saturday, with the busiest time of day being between 12pm to 1pm and 5pm to 8pm. The best selling pizza is the Classic Deluxe Pizza, followed by the BBQ Chicken Pizza and the Hawaiian Pizza wheras the Brie Carre Pizza accounts for the lowest share in total sales of the business. The Classic pizza category contributes to maximum sales and total orders and the large size pizza has the maximum share in the total revenue.
-
-These findings can be used by the pizza shop to improve their business. For example, the shop might want to consider hiring more staff on Thursday, Friday and Saturday nights to cope with the increased demand. Appropiate modifications or changes  can be made in the ingredients or taste of The Brie Carre Pizza so that its sales can be increased . 
+The results of the pizza sales analysis project have shown that the busiest days for pizza sales are Thursday, Friday and Saturday, with the busiest time of day being between 12pm to 1pm and 5pm to 8pm. The best selling pizza is the Classic Deluxe Pizza, followed by the BBQ Chicken Pizza and the Hawaiian Pizza wheras the Brie Carre Pizza accounts for the lowest share in total sales of the business. The Classic pizza category contributes to maximum sales and total orders and the large size pizza has the maximum share in the total revenue whereas the extra large (XL) pizza and extra extra large (XXL) pizza has the lowest share in the total revenue .
 
 Overall, the pizza sales analysis project has provided the pizza shop with valuable insights into their customers and their sales data. These insights can be used to improve the business and make it more profitable.
+
+
+## Recommendations
+
+On the basis of the insights drawn from the analysis of the pizza sales , various measures or steps can be taken by the business to improve their sales and make it more profitable .
+
+The business might want to consider hiring more staff on Thursday, Friday and Saturday nights to cope with the increased demand. It can also offer and adopt various sales promotion techniques or methods from sunday to wednesday such as providing discount coupons, adopting schemes such as buy one get one free  to increase the sales volume as the sales on these days of the week is the lowest .
+
+Appropiate modifications or changes can be made in the ingredients or taste of The Brie Carre Pizza so that its sales can be increased . The reasons for less sales revenue share in the total sales of The Brie Carrie Pizza can be analysed by comparing it to the best selling pizzas  like The Classic Deluxe Pizza with respect to its price and other attributes.
+
+The business can make modifications or changes in the price , ingredients etc. of the extra large (XL) and extra extra large (XXL) pizza size to increase their sales revenue share in the total sales .
+
+
