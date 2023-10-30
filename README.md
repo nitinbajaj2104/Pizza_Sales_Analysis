@@ -5,8 +5,6 @@ The purpose of this project is to help the pizza shop analyse their overall sale
 
 ## About Dataset
 
- https://www.kaggle.com/datasets/shilongzhuang/pizza-sales 
-
  This pizza sales dataset make up 12 relevant features:
 
 1.order_details_id: Unique identifier for each pizza placed within each order (pizzas of the same type and size are kept in the same row, and the quantity increases)
