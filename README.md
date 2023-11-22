@@ -64,6 +64,15 @@ The analysis of the data was done in MySQL Workbench before visualising the data
 After the analysis of the data , it was exported to MS Excel software where Data Visualisation is done with the help of interactive dashboard, which includes all the KPI and chart requirements at the same place.
 
 
+## Dashboard Created
+
+The  Pizza Sales Dashboard is created in Microsoft Excel which answers the problem statements through various charts/graphical representation which can easily be understood by the management of the business .
+
+
+![Screenshot 2023-10-30 185320](https://github.com/nitinbajaj2104/Pizza_Sales_Analysis/assets/142987208/4922156f-5039-40be-9535-a7385e1bbefa)
+
+
+
 
 ## Key Insights
 
