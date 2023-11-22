@@ -65,21 +65,33 @@ After the analysis of the data , it was exported to MS Excel software where Data
 
 
 
-## Insights
+## Key Insights
 
-The results of the pizza sales analysis project have shown that the busiest days for pizza sales are Thursday, Friday and Saturday, with the busiest time of day being between 12pm to 1pm and 5pm to 8pm. The best selling pizza is the Classic Deluxe Pizza, followed by the BBQ Chicken Pizza and the Hawaiian Pizza wheras the Brie Carre Pizza accounts for the lowest share in total sales of the business. The Classic pizza category contributes to maximum sales and total orders and the large size pizza has the maximum share in the total revenue whereas the extra large (XL) pizza and extra extra large (XXL) pizza has the lowest share in the total revenue .
+1.The results of the pizza sales analysis project have shown that the busiest days for pizza sales are Thursday, Friday and Saturday, with the busiest time of day being between 12pm to 1pm and 5pm to 8pm.
 
-Overall, the pizza sales analysis project has provided the pizza shop with valuable insights into their customers and their sales data. These insights can be used to improve the business and make it more profitable.
+2.The Classic pizza category contributes to maximum sales and total orders and the large size pizza has the maximum share in the total revenue whereas the extra large (XL) pizza and extra extra large (XXL) pizza has the lowest share in the total revenue .
+
+3.The best selling pizza is the Classic Deluxe Pizza, followed by the BBQ Chicken Pizza and the Hawaiian Pizza wheras the Brie Carre Pizza accounts for the lowest share in total sales of the business. 
+
 
 
 ## Recommendations
 
-On the basis of the insights drawn from the analysis of the pizza sales , various measures or steps can be taken by the business to improve their sales and make it more profitable .
+1. Optimize Staffing for Peak Hours:
+   
+Since Thursday, Friday, and Saturday are the busiest days for pizza sales, consider optimizing staffing levels during these days, especially during peak hours between 12pm to 1pm and 5pm to 8pm. Ensure that there are enough staff members to handle the increased demand efficiently, reducing waiting times and improving customer satisfaction.
 
-The business might want to consider hiring more staff on Thursday, Friday and Saturday nights to cope with the increased demand. It can also offer and adopt various sales promotion techniques or methods from sunday to wednesday such as providing discount coupons, adopting schemes such as buy one get one free  to increase the sales volume as the sales on these days of the week is the lowest .
+2. Attracting Customers on Non Peak days:
+   
+Consider providing discount coupons, adopting schemes such as buy one get one free , especially from sunday to wednesday ,to increase the sales volume as the sales on these days of the week is the lowest .
 
-Appropiate modifications or changes can be made in the ingredients or taste of The Brie Carre Pizza so that its sales can be increased . The reasons for less sales revenue share in the total sales of The Brie Carrie Pizza can be analysed by comparing it to the best selling pizzas  like The Classic Deluxe Pizza with respect to its price and other attributes.
+3. Menu Optimization:
+   
+Since the Classic Deluxe Pizza is the best-selling pizza, consider featuring it prominently on the menu and in marketing materials. The reason for low sales revenue share in the total sales of the non performing pizzas like The Brie Carrie Pizza can be analysed by comparing it to the best selling pizza like The Classic Deluxe Pizza with respect to its price and other attributes. If any opportunities then arises to enhance the popularity and increase the sales of the non-performing pizzas , then appropiate modifications or changes can be made to increase their sales such as changes in ingredients , taste , price etc , and if not , Consider revising or updating the menu to focus on high-performing items and potentially phasing out or reimagining less popular options like the Brie Carre Pizza.
 
-The business can make modifications or changes in the price , ingredients etc. of the extra large (XL) and extra extra large (XXL) pizza size to increase their sales revenue share in the total sales .
+4. Review Pricing Strategy for XL and XXL Pizzas:
+   
+Since the extra large (XL) and extra extra large (XXL) pizzas contribute less to total revenue, review the pricing strategy for these sizes. It might be worth considering adjustments to make them more appealing to customers or promoting them through special deals to increase their sales and revenue contribution.
+
 
 
